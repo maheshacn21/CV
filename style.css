@@ -183,7 +183,7 @@ h3{
 }
 
 .lin-top{
-    background-image:url(/image/line-bg.png);
+    background-image:url(line-bg.png);
     height: 5px;
     width: 16%;
     display: inline-block;
@@ -195,7 +195,7 @@ h3{
     width: 80px;
     height: 80px;
     border-radius: 100%;
-    background-image: url(/image/lan-eb.jpg);
+    background-image: url(lan-eb.jpg);
     display: inline-block;
     position: relative;
     top: 33px;
@@ -248,7 +248,7 @@ h4{
     width: 80px;
     height: 80px;
     border-radius: 100%;
-    background-image: url(/image/fram-b.jpg);
+    background-image: url(fram-b.jpg);
     display: inline-block;
     position: relative;
     top: 33px;
@@ -271,7 +271,7 @@ h4{
 
 
 .lin-bottom{
-    background-image:url(/image/line-bg.png);
+    background-image:url(line-bg.png);
     height: 5px;
     width: 16%;
     display: inline-block;
@@ -284,7 +284,7 @@ li{
 }
 
 .lin{
-    background-image:url(/image/line-bg.png);
+    background-image:url(line-bg.png);
     height: 5px;
     width: 7%;
     margin:10px auto 80px;
