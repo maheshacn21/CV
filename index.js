@@ -5,3 +5,7 @@ $(window).on("load",function(){
 $("#icon").on("click",function(){
     $("ul").toggleClass("show");
 });
+
+$(".na-item").on("click",function(){
+    $("ul").toggleClass("show");
+});
