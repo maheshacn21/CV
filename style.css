@@ -380,7 +380,7 @@ a.fad:hover{
         width: 100%;
         height: 100vh;
         top: 100px;
-        top: -100%;
+        left: -100%;
         background-color:#515555;
         /* transition: all 0.5s; */
     }
@@ -394,7 +394,6 @@ a.fad:hover{
     }
 
     .na-list.show{
-        top: 100px;
         left: 0;
     }
 
@@ -474,6 +473,7 @@ a.fad:hover{
 
     .mypic{
         width: 110px;
+        height: 110px
     }
 
     .computer{
