@@ -38,13 +38,13 @@ body{
 /********************************nav-bar************************************** */
 
 nav{
-    height: 100px;
+    height: 90px;
     width: 100%;
     background-color: black;
 }
 
 img.logo{
-    width: 80px;
+    width: 70px;
     border-radius: 100%;
     text-align: left;
     margin-top:10px;
@@ -105,8 +105,8 @@ h1{
     font-family: 'Sacramento', cursive;
     font-weight: bolder;
     font-size: 500%;
-    padding-top:3.5rem;
-    line-height: 80%;
+    padding-top:2.5rem;
+    line-height: 50%;
     color: rgb(52, 85, 18);
 }
 
@@ -128,14 +128,15 @@ p.my-profession{
 .about-div{
     background-color: #B5CDA3;
     position: relative;
-    bottom: 50px;
-    margin-bottom: 70px;
+    bottom: 70px;
+    margin-bottom: 50px;
 }
 
 .mypic{
-    width:150px;
+    width:130px;
     display: auto;
     border-radius:100%;
+    /* background-color:black; */
     margin: auto;
     position: relative;
     top: 30px;
@@ -535,6 +536,7 @@ a.fad:hover{
 }
 
 .h3-work{
+    color:white;
     font-size: 2rem;
 }
 
@@ -542,9 +544,19 @@ a.fad:hover{
     margin-top: 160px;
 }
 
+a.project{
+    text-decoration:none;
+    color:white;
+}
+
+a.project:hover{
+    color:lightblue;
+}
+
+
 .foot-work{
     background-color: black;
-    height: 100px;
+    height: 80px;
     text-align: center;
     position: fixed;
     bottom: 0;
